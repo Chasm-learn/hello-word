@@ -1,2 +1,3 @@
 # hello-word
-just my first repository
+只是我的第一个存储库
+欢迎来到这个世界，快快成长，快快长大。
